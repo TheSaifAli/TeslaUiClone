@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TeslaUiClone/static/css/main.f9bb56ab.css",
+    "main.js": "/TeslaUiClone/static/js/main.53dc5d55.js",
+    "static/media/GothamBook.ttf": "/TeslaUiClone/static/media/GothamBook.58fb9151c57e59668f17.ttf",
+    "index.html": "/TeslaUiClone/index.html",
+    "main.f9bb56ab.css.map": "/TeslaUiClone/static/css/main.f9bb56ab.css.map",
+    "main.53dc5d55.js.map": "/TeslaUiClone/static/js/main.53dc5d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9bb56ab.css",
+    "static/js/main.53dc5d55.js"
+  ]
+}
