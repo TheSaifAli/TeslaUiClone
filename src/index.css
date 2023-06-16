@@ -1,0 +1,36 @@
+@tailwind base;
+
+.modelClass{
+  @apply px-2 py-1 cursor-pointer hover:bg-slate-300 hover:rounded transition-all;
+}
+
+@tailwind components;
+
+
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gotham Book";
+  src: url("../public/GothamBook.ttf");
+}
+*{
+  font-family: "Gotham Book", sans-serif;
+  scroll-behavior: smooth;
+}
+.myanimation{
+  animation-name: identifier;
+  animation-duration: 4s;
+  animation-direction: normal;
+}
+
+@keyframes identifier {
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity:50;
+  }
+  100%{
+    opacity: 100;
+  }
+}
